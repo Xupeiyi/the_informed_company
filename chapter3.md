@@ -16,5 +16,5 @@ Use a modern BI product to do lightweight data modeling, and data exploring.
 ## Double Check Results
 Check against nulls, outliers and unexpected results.
 
-## Keep Short Dashboards
+## Keep Short Dashboards & Design Before Building
 Introduced some useful resources for dashboard design.
